@@ -1,6 +1,11 @@
 Requirements
+
+
 Introduction
 A fully featured scientific calculator with proper operator precedence is implemented, including trig functions and logarithms, factorials, 12 levels of parentheses, logs to base 2 (a handy function for information entropists!), bitwise logical operators, hex, octal, binary and ASCII display.
+
+
+
 
 Features
 Addition
@@ -19,6 +24,9 @@ Exponential
 Factorial
 Logritham
 Exit
+
+
+
 4W's And 1H
 Why:
 To reduce the complexcity of the mathemetical calculations.
@@ -36,6 +44,9 @@ The project can be used when the complex mathematical calculations are required 
 How:
 They can sovlve any calculations by this calculator and it gives them a correct result.
 It will be helpful in performing various calculations like Natural Logarithm and PI.
+
+
+
 SWOT Analysis
 Strength:
 Perfect for school and college level students.
@@ -44,6 +55,9 @@ Weakness:
 Cost is high.
 Certain calculations cannot be done.
 High Level Requirements
+
+
+
 ID	Description	Status
 HLR_1	The user can calculate the Addition	Implemented
 HLR_2	The user can calculate the Subraction	Implemented
@@ -62,6 +76,9 @@ HLR_14	The user can calculate the Factorial	Implemented
 HLR_15	The user can calculate the Logritham	Implemented
 HLR_16	The user can calculate the Exit	Implemented
 Low Level Reuirements
+
+
+
 ID	Description	Status
 LLR_1	List of operations displayed	Implemented
 LLR_2	Input from the user	Implemented
