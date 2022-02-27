@@ -4,7 +4,7 @@ High Level Test Plan
 
 ID	Description	Expected o/p
 
-HLTP_1	Addition Calculation	Implemented
+HLTP_1	Addition Calculation     	Implemented
 HLTP_2	Subraction Calculation	Implemented
 HLTP_3	Multiplication Calculation	Implemented
 HLTP_4	Division Calculation	Implemented
@@ -19,7 +19,10 @@ HLTP_12	Cot Calculation	Implemented
 HLTP_13	Exponential Calculation	Implemented
 HLTP_14	Factorial Calculation	Implemented
 HLTP_15	Logritham Calculation	Implemented
+
 Low Level Test Plan
+
+
 ID	Description	Expected I/P	Expected O/P	Actual O/P	Type Of Test
 LLTP_1	Addition Calculation	(444 + 444)	888	888	Requirement Based
 LLTP_2	Subraction Calculation	(476 - 323)	153	153	Requirement Based
